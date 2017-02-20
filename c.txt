@@ -1,4 +1,0 @@
-HI
-nice to meet you
-eof
-SQL
